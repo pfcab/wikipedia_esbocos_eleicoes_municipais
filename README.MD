@@ -1,7 +1,7 @@
 Os arquivos aqui inclusos são esboços de artigos feitos para a Wikipedia lusófona de eleições municipais entre 2000 e 2024.
-Os esboços foram criados por um *script* desenvolvido pelo usuário [[https://pt.wikipedia.org/wiki/Usu%C3%A1rio(a):Pfcab|Pfcab]].
+Os esboços foram criados por um *script* desenvolvido pelo usuário [https://pt.wikipedia.org/wiki/Usu%C3%A1rio(a):Pfcab|Pfcab].
 As informações utilizadas para a criação dos artigos foram
-retiradas do [[https://dadosabertos.tse.jus.br/|Portal de Dado Abertos do TSE]].
+retiradas do [https://dadosabertos.tse.jus.br/|Portal de Dado Abertos do TSE].
 ## Atenção!
 
 Os conteúdos contidos nos esboços podem estar incorretos e/ou incompletos.
@@ -73,4 +73,5 @@ Se decidir usar algum texto daqui, você se responsabiliza pelas informações q
 * Debates.
 * Pesquisas pré-eleitorais.
 * Desdobramentos.
+
 
