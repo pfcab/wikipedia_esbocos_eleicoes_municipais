@@ -1,5 +1,5 @@
-Os arquivos aqui inclusos sao ebocos de artigos feitos para a Wikipedia de eleicoes municipais entre 2000 e 2024.
-Os ebocos foram criados por um script desenvolvido pelo usuario Pfcab.
+Os arquivos aqui inclusos são esboços de artigos feitos para a Wikipedia lusofona de eleições municipais entre 2000 e 2024.
+Os esboços foram criados por um script desenvolvido pelo usuario Pfcab.
 As informacoes utlizadas para a criacao dos artigos foram
 retiradas do Portal de Dado Abertos do TSE. (https://dadosabertos.tse.jus.br/)
 
@@ -80,3 +80,4 @@ Sugestoes do que adicionar para aprimorar cada esboco:
 	* Debates
 	* Pesquisas pre-eleitorais
 	* Desdobramentos (candidatos cassados, etc)
+
